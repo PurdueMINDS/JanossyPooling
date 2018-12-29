@@ -44,14 +44,12 @@ Please feel free to reach out to Ryan L. Murphy (murph213  at  purdue.edu) if yo
 ## Citation
 If you use this code, please consider citing:
 ```
-@ARTICLE{RyanLM2018,
-   author = {Ryan L. Murphy and Balasubramaniam Srinivasan and Vinayak Rao and Bruno Ribeiro},
-    title = "{Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs}",
-  journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1811.01900},
- keywords = {Computer Science - Machine Learning, Statistics - Machine Learning},
-     year = 2018,
-    month = nov
+@inproceedings{
+murphy2018janossy,
+title={Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs},
+author={Ryan L. Murphy and Balasubramaniam Srinivasan and Vinayak Rao and Bruno Ribeiro},
+booktitle={International Conference on Learning Representations},
+year={2019},
+url={https://openreview.net/forum?id=BJluy2RcFm},
 }
 ```
